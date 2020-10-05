@@ -1,2 +1,2 @@
-# React-Eslint
-ESLint for best coding style and quality
+# React-ESLint
+ESLint for best coding style and quality in React application
